@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MubalaMawere
 - 👀 I’m interested in ... software development|WebApp dev|Cybersecurity|
 - 🌱 I’m currently learning ... ASP.NET Core|introduction to networking
-- 💞️ I’m looking to collaborate on ... Building projects in .NET
+- 💞️ I’m looking to collaborate on ... Building projects in .NET|Always open to learn and contribute what i can.
 - 📫 How to reach me ... maweremubala2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
